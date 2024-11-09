@@ -1,4 +1,4 @@
-# Flutter Restful API with Getx - E-Commerce Product List & Details
+# Flutter MakeUp API with Getx SIMPLE DEMO - Product List & Details
 
 
 
